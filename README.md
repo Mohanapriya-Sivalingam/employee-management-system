@@ -48,7 +48,6 @@ A modern Employee Management System built using React and Redux Toolkit.
 
 ## 📸 Screenshots
  
- ### Home Page
  ![Add Employeee](src/assets/addemp.png)
  ![View Employeee](src/assets/viewemp.png)
 ![Edit Employeee](src/assets/updateemp.png)
