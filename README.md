@@ -52,9 +52,9 @@ A modern Employee Management System built using React and Redux Toolkit.
 ---
 
 ## 🌐 Live Demo
-👉 https://github.com/Mohanapriya-Sivalingam/employee-management-system.git
 
- 👉 https://employee-management-system.vercel.app/
+
+ 👉 https://employee-management-system-lo9pmhkz7.vercel.app/
 ---
 
 ## 📌 Future Improvements
