@@ -47,14 +47,20 @@ A modern Employee Management System built using React and Redux Toolkit.
 ---
 
 ## 📸 Screenshots
-(Add screenshots here later)
-
+ 
+ ### Home Page
+ ![Add Employeee](assets/addemp.png)
+ ![View Employeee](assets/viewemp.png)
+![Edit Employeee](assets/updateemp.png)
+![Dashboard](assets/dashboard.png)
+![Search Employeee](assets/empscreening.png)
+![Search Employeee](assets/empsearch.png)
+![Former Employeee](assets/formeremp.png)
 ---
 
 ## 🌐 Live Demo
 
 
- 👉 https://employee-management-system-lo9pmhkz7.vercel.app/
 ---
 
 ## 📌 Future Improvements
